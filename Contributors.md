@@ -3966,4 +3966,4 @@
 - [Pedro Zunino](https://github.com/pedrozs)
 - [Neo Cho](https://github.com/neocho)
 - [Zoe Woodward](https://github.com/zoefwoodward)
-- [Ashkan Gh](https://github.com/ghodrash)
+- [Ashkan GH](https://github.com/ghodrash)
